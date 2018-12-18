@@ -1,0 +1,1 @@
+#gentoo-openrc-examples
